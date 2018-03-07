@@ -1,0 +1,2 @@
+export const SIGN_IN_SET_PASSWORD = 'SIGN_IN_SET_PASSWORD';
+export const SIGN_IN_SET_EMAIL = 'SIGN_IN_SET_EMAIL';

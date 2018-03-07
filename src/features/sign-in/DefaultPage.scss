@@ -1,0 +1,14 @@
+@import '../../styles/mixins';
+
+.sign-in-default-page {
+  display: flex;
+  flex-direction: column;
+
+  &__input {
+    width: 200px;
+  }
+
+  &__button {
+    width: 100px;
+  }
+}
